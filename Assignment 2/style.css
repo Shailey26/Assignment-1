@@ -1,0 +1,15 @@
+h1{
+    text-align: center;
+    text-decoration: wavy;
+    color:#B6E2D3;
+   background-color:#0C2D48;
+}
+h2{
+    text-decoration: underline;
+    color:#B6E2D3;
+    background-color:#0194;
+    background-color:flex;
+}
+body{
+    background-color:#C197D2;
+}
